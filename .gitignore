@@ -1,0 +1,12 @@
+# Mac
+.DS_Store
+
+# JetBrains
+/.idea
+*.iml
+
+# Jupyter notebook
+.ipynb_checkpoints
+
+# MNIST download data
+/notebooks/dataset/*.gz
