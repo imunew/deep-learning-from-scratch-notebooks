@@ -1,6 +1,9 @@
 # Mac
 .DS_Store
 
+# Python
+*.pyc
+
 # JetBrains
 /.idea
 *.iml
